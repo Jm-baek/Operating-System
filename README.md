@@ -66,3 +66,8 @@
 
 3. conda 자동활성화 해제
       - conda config --set auto_activate_base false
+
+4.심볼릭 링크(symbolic link) 란? 
+      - 링크를 연결하여 원본 파일을 직접 사용하는 것과 같은 효과를 내는 링크이다.  윈도우의 바로가기와 비슷한 개념 
+      - 특정 폴더에 링크를 걸어 NAS, library 원본 파일을 사용하기 위해 심볼릭 링크를 사용한다. 
+
